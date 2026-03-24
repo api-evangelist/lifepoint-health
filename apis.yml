@@ -1,0 +1,7 @@
+aid: lifepoint-health
+url: https://raw.githubusercontent.com/api-evangelist/lifepoint-health/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.lifepoint-health.com
