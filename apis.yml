@@ -6,6 +6,17 @@ description: >-
   centers, and post-acute facilities across the United States. This index
   tracks any APIs, SDKs, and developer resources published by LifePoint Health.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
