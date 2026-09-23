@@ -1,7 +1,9 @@
 ---
 title: Google Cloud, LifePoint Health Partner to Deploy Data Platform
 url: https://www.techtarget.com/healthtechanalytics/news/366590635/Google-Cloud-LifePoint-Health-Partner-to-Deploy-Data-Platform
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LifePoint Health" press release artificial intelligence'
 position: 5
 source: serpapi-google

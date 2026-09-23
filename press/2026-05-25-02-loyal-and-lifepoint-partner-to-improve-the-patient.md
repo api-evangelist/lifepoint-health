@@ -1,7 +1,9 @@
 ---
 title: Loyal and LifePoint Partner to Improve the Patient ...
 url: https://www.aha.org/aha-center-health-innovation-market-scan/2021-11-02-loyal-and-lifepoint-partner-improve-patient
-date: '2026-05-25'
+published: '2021-11-02'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"LifePoint Health" press release artificial intelligence'
 position: 2
 source: serpapi-google

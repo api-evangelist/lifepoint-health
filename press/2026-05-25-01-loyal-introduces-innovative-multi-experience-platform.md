@@ -1,7 +1,9 @@
 ---
 title: Loyal Introduces Innovative Multi-Experience Platform
 url: https://lifepointhealth.net/news/loyal-introduces-innovative-multi-experience-platform-establishes-five-year-partnership-with-lifepoint-health
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LifePoint Health" press release artificial intelligence'
 position: 1
 source: serpapi-google

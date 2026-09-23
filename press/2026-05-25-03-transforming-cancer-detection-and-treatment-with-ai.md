@@ -1,7 +1,9 @@
 ---
 title: Transforming Cancer Detection and Treatment With AI ...
 url: https://www.accc-cancer.org/view/transforming-cancer-detection-and-treatment-with-ai-driven-healthy-person-program
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LifePoint Health" press release artificial intelligence'
 position: 3
 source: serpapi-google
